@@ -47,6 +47,15 @@ Learning to blend technical skills with strategic thinking.
 
 Passionate about using data to solve real-world challenges and tell meaningful stories.
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div id="badges">
+  <img src="https://img.shields.io/badge/Excel-blu?style=for-the-badge&logo=linkedin&logoColor=white" alt="Excel Badge"/>
+  <img src="https://img.shields.io/badge/Google Ads-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Google Ads Badge"/>
+  <img src="https://img.shields.io/badge/Google Analytics-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Google Analytics Badge"/>
+</div>
+
 
 
 <!--
