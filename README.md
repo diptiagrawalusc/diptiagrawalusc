@@ -54,6 +54,12 @@ Passionate about using data to solve real-world challenges and tell meaningful s
   <img src="https://img.shields.io/badge/Excel-blu?style=for-the-badge&logo=linkedin&logoColor=white" alt="Excel Badge"/>
   <img src="https://img.shields.io/badge/Google Ads-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Google Ads Badge"/>
   <img src="https://img.shields.io/badge/Google Analytics-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Google Analytics Badge"/>
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Power BI-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="Power BI Badge"/>
+  <img src="https://img.shields.io/badge/R-blu?style=for-the-badge&logo=linkedin&logoColor=white" alt="R Badge"/>
+  <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/Statistics-blu?style=for-the-badge&logo=linkedin&logoColor=white" alt="Statistics Badge"/>
+  <img src="https://img.shields.io/badge/Salesforce-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="Salesforce Badge"/>
 </div>
 
 
