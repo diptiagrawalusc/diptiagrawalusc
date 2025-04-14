@@ -30,11 +30,11 @@ Whether I’m optimizing digital performance with SEO tools, analyzing customer 
     
 ### - 📈 Marketing Analytics @USC and @Chemotactics 
 
-# - 🌱Founder of a bespoke e-gifting business
+### - 🌱Founder of a bespoke e-gifting business
   
-# - 👩‍🎓 USC and LSE
+### - 👩‍🎓 USC and LSE
 
-# - :mailbox:Connect: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diptiusc/)
+### - :mailbox:Connect: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diptiusc/)
 
 ---
  # **Current Adventure** 🎓
