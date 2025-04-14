@@ -28,7 +28,7 @@ Whether I’m optimizing digital performance with SEO tools, analyzing customer 
   <div id="badges" align="left">
   
     
-# - 📈 Marketing Analytics @USC and @Chemotactics 
+### - 📈 Marketing Analytics @USC and @Chemotactics 
 
 # - 🌱Founder of a bespoke e-gifting business
   
