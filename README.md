@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
 </h1>
-
+---
 ### :woman_technologist: About Me :
  Hi, I’m Dipti — a data-driven analyst with a passion for uncovering meaningful insights that drive smarter decisions. With experience across marketing analytics, operations, and business strategy, I specialize in connecting the dots between data and impact.
 
