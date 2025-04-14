@@ -37,7 +37,7 @@ Whether I’m optimizing digital performance with SEO tools, analyzing customer 
 - :mailbox:Connect: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diptiusc/)
 
 ---
-  **Current Adventure** 🎓
+  <**Current Adventure** width="30px" >🎓
 
 📚 **MS in Business Analytics @ USC Marshall School of Business**
 
