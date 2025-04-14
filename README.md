@@ -37,8 +37,9 @@ Whether I’m optimizing digital performance with SEO tools, analyzing customer 
 - :mailbox:Connect: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diptiusc/)
 
 ---
-  Current Adventure 🎓
-📚 MS in Business Analytics @ USC Marshall School of Business
+  **Current Adventure** 🎓
+
+📚 **MS in Business Analytics @ USC Marshall School of Business**
 
 Diving deep into Python, SQL, machine learning, and data visualization.
 
