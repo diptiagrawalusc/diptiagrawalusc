@@ -20,7 +20,7 @@
   
 </h1>
 
-:woman_technologist: About Me :
+:technologist:. About Me :
  Hi, I’m Dipti — a data-driven analyst with a passion for uncovering meaningful insights that drive smarter decisions. With experience across marketing analytics, operations, and business strategy, I specialize in connecting the dots between data and impact.
 
 Whether I’m optimizing digital performance with SEO tools, analyzing customer behavior, or building dashboards that tell a story, I bring a blend of analytical rigor and strategic thinking to every project. Skilled in SQL, Python, Tableau, and Google Analytics, I thrive in cross-functional teams where data powers decisions and insights spark innovation.
