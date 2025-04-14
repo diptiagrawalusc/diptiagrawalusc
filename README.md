@@ -15,7 +15,11 @@
 <div id="badges" align"center>
 <img src="https://komarev.com/ghpvc/?username=ditptiagrawalusc&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  Hi, I’m Dipti — a data-driven analyst with a passion for uncovering meaningful insights that drive smarter decisions. With experience across marketing analytics, operations, and business strategy, I specialize in connecting the dots between data and impact.
+
+Whether I’m optimizing digital performance with SEO tools, analyzing customer behavior, or building dashboards that tell a story, I bring a blend of analytical rigor and strategic thinking to every project. Skilled in SQL, Python, Tableau, and Google Analytics, I thrive in cross-functional teams where data powers decisions and insights spark innovation.
+
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
 </h1>
