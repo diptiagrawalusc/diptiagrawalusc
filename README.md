@@ -28,14 +28,6 @@ Whether I’m optimizing digital performance with SEO tools, analyzing customer 
   <div id="badges" align="left">
   
     
-### - 📈 Marketing Analytics @USC and @Chemotactics 
-
-### - 🌱Founder of a bespoke e-gifting business
-  
-### - 👩‍🎓 USC and LSE
-
-### - :mailbox:Connect: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diptiusc/)
-
 ---
  # **Current Adventure** 🎓
 
@@ -62,7 +54,17 @@ Passionate about using data to solve real-world challenges and tell meaningful s
   <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="SQL Badge"/>
 </div>
 
+--- 
 
+### - 📈 Marketing Analytics @USC and @Chemotactics 
+
+### - 🌱Founder of a bespoke e-gifting business
+  
+### - 👩‍🎓 USC and LSE
+
+### - :mailbox:Connect: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diptiusc/)
+
+---
 
 <!--
 **diptiagrawalusc/diptiagrawalusc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
