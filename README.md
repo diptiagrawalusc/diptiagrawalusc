@@ -52,13 +52,13 @@ Passionate about using data to solve real-world challenges and tell meaningful s
 ### :hammer_and_wrench: Languages and Tools :
 <div id="badges">
   <img src="https://img.shields.io/badge/Excel-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="Excel Badge"/>
-  <img src="https://img.shields.io/badge/Google Ads-blu?style=for-the-badge&logo=youtube&logoColor=white" alt="Google Ads Badge"/>
+  <img src="https://img.shields.io/badge/Google Ads-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Google Ads Badge"/>
   <img src="https://img.shields.io/badge/Google Analytics-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Google Analytics Badge"/>
-  <img src="https://img.shields.io/badge/Python-blu?style=for-the-badge&logo=linkedin&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Power BI-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="Power BI Badge"/>
-  <img src="https://img.shields.io/badge/R-blu?style=for-the-badge&logo=linkedin&logoColor=white" alt="R Badge"/>
+  <img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="R Badge"/>
   <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="SQL Badge"/>
-  <img src="https://img.shields.io/badge/Statistics-blu?style=for-the-badge&logo=linkedin&logoColor=white" alt="Statistics Badge"/>
+  <img src="https://img.shields.io/badge/Statistics-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Statistics Badge"/>
   <img src="https://img.shields.io/badge/Salesforce-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="Salesforce Badge"/>
 </div>
 
